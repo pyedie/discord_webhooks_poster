@@ -11,6 +11,10 @@ Download [Discord Webhooks Poster](https://github.com/MaeveLaOuf/discord_webhook
 
 Start the software by *double-clicking* the file and that's it ! You can send *beautiful webhooks* !
 
+### TODO
+
+ - Add a color picker instead of enter a decimal color.
+
 ### Development
 
 Want to contribute? Great!
