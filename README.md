@@ -14,6 +14,7 @@ Start the software by *double-clicking* the file and that's it ! You can send *b
 ### TODO
 
  - Add a color picker instead of enter a decimal color.
+ - Webhook Preview
 
 ### Development
 
