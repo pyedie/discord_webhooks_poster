@@ -20,8 +20,7 @@ Start the software by *double-clicking* the file and that's it ! You can send *b
 
 Want to contribute? Great!
 
-You can submit a feature with [GitHub](https://github.com/) or with Discord : Maeve ♡#0666
-
+You can submit a feature with [GitHub](https://github.com/) or with Discord : Impératrice Maeve#0666
 And if you want, you can fork this repository, do your modifications and submit a pull request.
 
 License
